@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: rgb(178, 245, 242);
+}
+
+span {
+    display: inline-block;
+    padding: 1.25%;
+    background-color: rgb(245, 176, 176);
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    
+}
+
+a {
+    color: darkorchid;
+    font-style: normal;
+    font-size: larger;
+    background-color: rgb(245, 176, 176);
+}
+
+#icons {
+    padding-bottom: 1%;
+}
+
+img {
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+} 
+
+footer {
+    padding-top: 5%;
+    font-size: xx-large;    
+}
+
+p {
+    font-size: large;
+}
+
+
+
+
